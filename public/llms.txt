@@ -1,0 +1,108 @@
+# FTF [for the fans] — Generative Engine Optimization Map
+
+> A premium online store specializing in high-end football jerseys. The brand positions itself at the top tier of the market, emphasizing quality, authenticity, and a passion for football culture. The store aims to deliver an elite shopping experience for serious football fans and collectors.
+
+---
+
+## Pages
+
+### בית
+https://ftf-for-the-fans-652a58af.zappy5.app
+חנות חולצות כדורגל ישראל המובילה לאוהדים אמיתיים. גלה את הקולקציה היוקרתית שלנו של חולצות קבוצות כדורגל אירופאיות, עשויות באיכות על. הצטרף למועדון האלופים עכשיו!
+
+### איכות
+https://ftf-for-the-fans-652a58af.zappy5.app/quality
+ב-FTF, כל חולצה היא יצירת מופת. אנו מתחייבים לחולצות כדורגל מקוריות לקנייה ברמת גימור עילית, מבדים נושמים ועד הדפסים עמידים. חווה את ההבדל שבאיכות אמיתית.
+
+### תרבות
+https://ftf-for-the-fans-652a58af.zappy5.app/culture
+צלול עמוק לתוך תרבות הכדורגל העולמית. ממכירת חולצות כדורגל ועד סיפורי היציעים, אנחנו חוגגים את התשוקה שמאחורי חולצות קבוצות כדורגל אירופאיות. היה חלק מהמורשת.
+
+### שאלות נפוצות
+https://ftf-for-the-fans-652a58af.zappy5.app/faq
+יש לך שאלות על חולצות כדורגל מקוריות לקנייה? מעמוד השאלות הנפוצות שלנו תקבל מענה מיידי על משלוחים, מידות, ואימות מקוריות. קנה בביטחון מלא עוד היום.
+
+### צור קשר
+https://ftf-for-the-fans-652a58af.zappy5.app/contact
+צריך עזרה בבחירת חולצות קבוצות כדורגל אירופאיות? צוות המומחים שלנו בחנות חולצות כדורגל ישראל זמין לכל שאלה. צור קשר עכשיו ותן לנו להלביש את התשוקה שלך.
+
+### Products
+https://ftf-for-the-fans-652a58af.zappy5.app/products
+המוצרים שלנו - FTF [for the fans]
+
+### Cart
+https://ftf-for-the-fans-652a58af.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://ftf-for-the-fans-652a58af.zappy5.app/checkout
+תשלום
+
+### Login
+https://ftf-for-the-fans-652a58af.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://ftf-for-the-fans-652a58af.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://ftf-for-the-fans-652a58af.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://ftf-for-the-fans-652a58af.zappy5.app/product/:slug
+פרטי המוצר - FTF [for the fans]
+
+### Category
+https://ftf-for-the-fans-652a58af.zappy5.app/category/:slug
+מוצרים - FTF [for the fans]
+
+### תודה רבה | FTF [for the fans]
+https://ftf-for-the-fans-652a58af.zappy5.app/thank-you
+תודה רבה על פנייתך. ההודעה התקבלה בהצלחה ונציג מטעמנו יחזור אליך בהקדם. FTF - מכירת חולצות כדורגל.
+
+## Legal & Policy
+
+### Privacy Policy
+https://ftf-for-the-fans-652a58af.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://ftf-for-the-fans-652a58af.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://ftf-for-the-fans-652a58af.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About FTF [for the fans]
+A premium online store specializing in high-end football jerseys. The brand positions itself at the top tier of the market, emphasizing quality, authenticity, and a passion for football culture. The store aims to deliver an elite shopping experience for serious football fans and collectors.
+
+## Target Audience
+- חובבי כדורגל מושבעים
+- קבוצות ספורט נוער
+- חובבי ספורט מזדמנים
+
+## Industry
+E-commerce / Sports Apparel
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://ftf-for-the-fans-652a58af.zappy5.app/sitemap.xml
+- Robots: https://ftf-for-the-fans-652a58af.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://ftf-for-the-fans-652a58af.zappy5.app/llms-full.txt
+- Products (JSON): https://ftf-for-the-fans-652a58af.zappy5.app/products.json
+- Products (Google Merchant RSS): https://ftf-for-the-fans-652a58af.zappy5.app/product-feed.xml
