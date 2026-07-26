@@ -4,6 +4,20 @@
     <title>FTF [for the fans]</title>
     <link>https://example.com</link>
     <description>Product feed for FTF [for the fans]</description>
-    <lastBuildDate>Sun, 26 Jul 2026 21:49:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 22:27:21 GMT</lastBuildDate>
+    <item>
+      <g:id>a6b968e4-e095-4ddc-8e34-807fbd88fb9d</g:id>
+      <g:title>חולצת חוץ ריאל מדריד 2026/27 (Copy)</g:title>
+      <g:description>חולצת חוץ ריאל מדריד 2026/27 (Copy)</g:description>
+      <g:link>https://example.com/product/chvltst-chvts-ryal-mdryd-202627-copy-hn1hoo</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1785103775727-5ngzx.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>89.90 ILS</g:price>
+      <g:sale_price>49.90 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>FTF [for the fans]</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>LALIGA</g:product_type>
+    </item>
   </channel>
 </rss>

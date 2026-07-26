@@ -80,7 +80,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 1**
+
+### חולצת חוץ ריאל מדריד 2026/27 (Copy)
+https://example.com/product/chvltst-chvts-ryal-mdryd-202627-copy-hn1hoo
+- Price: 49.90 ILS (sale, was 89.90 ILS)
+- Availability: In stock
+- Category: LALIGA
+- Image: https://example.com/assets/product-ai-fit-1785103775727-5ngzx.webp
 
 ---
 

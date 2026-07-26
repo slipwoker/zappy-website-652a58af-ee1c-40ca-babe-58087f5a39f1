@@ -1,8 +1,33 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-26T21:49:48.872Z",
+  "generated_at": "2026-07-26T22:27:21.361Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "a6b968e4-e095-4ddc-8e34-807fbd88fb9d",
+      "slug": "chvltst-chvts-ryal-mdryd-202627-copy-hn1hoo",
+      "name": "חולצת חוץ ריאל מדריד 2026/27 (Copy)",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 49.9,
+      "base_price": 89.9,
+      "sale_price": 49.9,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1785103775727-5ngzx.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chvltst-chvts-ryal-mdryd-202627-copy-hn1hoo",
+      "categories": [
+        "LALIGA"
+      ],
+      "updated_at": "2026-07-26T22:16:12.061Z"
+    }
+  ]
 }
