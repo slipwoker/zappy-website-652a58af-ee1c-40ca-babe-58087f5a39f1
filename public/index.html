@@ -674,7 +674,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
 
 </style>
     <link rel="stylesheet" href="/styles.css" />
-    <link rel="preload" as="image" href="/assets/site-image-index-hero-image-1.webp" fetchpriority="high" />
+    <link rel="preload" as="image" href="/assets/site-image-index-features-image-2.webp" fetchpriority="high" />
 
     <style id="zappy-dropdown-submenu-styles">
       /* ========== DESKTOP DROPDOWN SUBMENU STYLES ========== */
@@ -780,7 +780,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
     </div>
   
 <script>window.ZAPPY_PRODUCTS_LISTING_PATH = "/products";</script>
-<script>window.ZAPPY_WEBSITE_ID = "652a58af-ee1c-40ca-babe-58087f5a39f1";window.ZAPPY_API_BASE = "https://api.zappy5.com"</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
+<script>window.ZAPPY_WEBSITE_ID = "652a58af-ee1c-40ca-babe-58087f5a39f1";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? window.location.origin : "https://api.zappy5.com");</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="תפריט">
     <svg style="display:block !important" class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -1285,17 +1285,17 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
 </script>
   
   <main id="main">
-    <section data-band-index="0" class="index-hero-section" data-layout-spec="בית-hero" data-hero-treatment="fade-bleed" style="--hero-fade-color: var(--bg-light);" data-hero-type="fullscreen-scrim">
+    <section data-band-index="0" class="index-hero-section" data-layout-spec="בית-hero" data-hero-treatment="fade-bleed" style="--hero-fade-color: var(--bg-light); overflow: hidden;" data-hero-type="fullscreen-scrim" id="index-hero-section" data-zappy-bg-overlay-color="#000000" data-zappy-bg-overlay-opacity="10">
   <!-- Full-bleed background photo -->
-  <img loading="eager" fetchpriority="high" class="hero-fade-img" data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="A serious football fan wearing a premium jersey, standing in warm late-afternoon sunlight near local terrace steps. The subject is positioned on the right side of the frame. Warm cinematic tones, shallow depth of field, editorial sports photography style. The left portion of the image naturally fades into a soft cream background." width="1920" height="1080" src="/assets/site-image-index-hero-image-1.webp" alt="אוהד כדורגל בחולצת פרימיום בשעת בין ערביים" decoding="async" />
+  <div data-zappy-zoom-wrapper="true" data-element-id="img-1785102558979-hr6qs0nfd" data-element-type="image" data-zappy-zoom-wrapper-width-mode="full" style="position: absolute !important; top: 0px !important; left: 0px !important; width: 100% !important; height: 100% !important; max-width: none !important; margin-left: 0px !important; margin-right: 0px !important; z-index: 0 !important; overflow: hidden !important;" data-zappy-zoom-clip="true" data-zappy-wrapper-margins-applied="true" data-zappy-zoom-wrapper-align="center" data-zappy-zoom-wrapper-width="1486px" data-zappy-zoom-wrapper-height="887px"><img loading="eager" fetchpriority="high" class="hero-fade-img" data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="A serious football fan wearing a premium jersey, standing in warm late-afternoon sunlight near local terrace steps. The subject is positioned on the right side of the frame. Warm cinematic tones, shallow depth of field, editorial sports photography style. The left portion of the image naturally fades into a soft cream background." width="1920" height="1080" src="/assets/site-image-index-features-image-2.webp" alt="אוהד כדורגל בחולצת פרימיום בשעת בין ערביים" data-hero-background="true" data-element-type="image" data-element-id="img-1785102558979-hr6qs0nfd" style="object-position: 66% 81% !important; margin: 0px !important; position: absolute !important; left: 0% !important; top: -8.10648% !important; width: 100% !important; height: 110.008% !important; max-width: none !important; max-height: none !important; display: block !important; object-fit: fill !important;" data-zappy-zoom="0.7" data-zappy-original-width="1486" data-zappy-original-height="887" data-zappy-hero-img-base-opacity="1" data-zappy-hero-img-base-blend="normal" data-zappy-object-position="66% 81%" decoding="async" /></div>
 
   <!-- Copy overlay group on the solid panel side -->
-  <div class="hero-fade-content">
+  <div class="zappy-hero-overlay" style="position: absolute; inset: 0px; z-index: 1; background: rgba(0, 0, 0, 0.1); pointer-events: none;"></div><div class="hero-fade-content">
     <h1 class="display-xl">חולצות כדורגל ברמה הכי גבוהה – בשביל האוהדים האמיתיים</h1>
     <h3 class="hero-subtitle">קיט אותנטי, חומרים מובחרים וחוויית קנייה אוצרתית – בדיוק כמו שאתם אוהבים כדורגל.</h3>
     <div class="hero-cta-group">
-      <a href="/products" class="btn-primary">גלו את הקולקציה</a>
-      <a href="/contact" class="btn-secondary">צרו קשר להזמנות מיוחדות</a>
+      <a href="/products" class="btn-primary" data-element-type="button" data-element-id="btn-1785102558974-5mtkh98x7" data-native-element="true">גלו את הקולקציה</a>
+      <a href="/contact" class="btn-secondary" data-element-type="button" data-element-id="btn-1785102558974-dpkbv0ab4" data-native-element="true">צרו קשר להזמנות מיוחדות</a>
     </div>
   </div>
 
@@ -1725,4 +1725,6 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       }, 500);
     })();
     </script>
+
+    
 </body></html>
