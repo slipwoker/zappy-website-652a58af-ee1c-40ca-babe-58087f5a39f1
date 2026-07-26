@@ -769,7 +769,10 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
     // Preview pages are served by the current Zappy origin, which may be a
     // remote tunnel/QA host rather than this server's baked SERVER_URL.
     // Deployed sites are static and must call the public Zappy API (never localhost).
-    window.ZAPPY_API_BASE = "https://api.zappy5.com"</script>
+    window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview'))
+      ? window.location.origin
+      : "https://api.zappy5.com";
+  </script>
   
     <div class="mobile-search-panel" id="mobile-search-panel">
       <div class="search-wrapper">
@@ -785,10 +788,10 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
     </div>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="תפריט">
-    <svg style="display:block !important" class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
+    <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
       <path d="M3 12h18M3 6h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
     </svg>
-    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display:none !important">
+    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display: none;">
       <path d="M18 6L6 18M6 6l12 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
     </svg>
   </button>
@@ -837,8 +840,8 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
     </nav>
   <main class="page-container ecommerce-page">
     
-        <section class="products-section">
-          <h1 id="products-page-title">המוצרים שלנו</h1>
+        <section class="products-section" id="products-section"><div class="zappy-inserted-element" id="zappy-element-1785102900793-1k91x9wl1" data-element-id="zappy-element-1785102900793-1k91x9wl1" data-element-type="h2" data-zappy-newly-inserted="true" data-grid-item-index="1" style="margin: 0px !important; padding: 20px !important; box-sizing: border-box; display: block; align-self: start !important;"></div><div class="zappy-inserted-element" id="zappy-element-1785102896512-mdk2rvuzw" data-element-id="zappy-element-1785102896512-mdk2rvuzw" data-element-type="h2" data-zappy-newly-inserted="true" style="margin: 0px !important; box-sizing: border-box; display: block; align-self: start !important; height: auto !important;"></div>
+          <h1 id="products-page-title">מוצרים</h1>
           <script>/* ZAPPY_PRODUCTS_SEARCH_TITLE_BOOTSTRAP */(function(){try{var params=new URLSearchParams(window.location.search);var direct=(params.get('search')||'').trim();var page=params.get('page')||'';var nested='';if(page){try{nested=(new URL(page,window.location.origin).searchParams.get('search')||'').trim();}catch(e){}}if(!direct&&!nested)return;var title=document.getElementById('products-page-title');if(!title)return;var label="תוצאות חיפוש";if((title.textContent||'').trim()!==label)title.textContent=label;title.setAttribute('data-search-title-active','true');}catch(e){}})();</script>
           <div class="products-toolbar" id="products-toolbar" style="display:none;">
             <button class="sidebar-toggle-btn" id="sidebar-toggle-btn" style="display:none;" aria-label="סינון">
@@ -866,142 +869,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
           <div class="products-layout" id="products-layout">
             <aside class="product-sidebar" id="product-sidebar" style="display:none;"></aside>
             <div class="products-main">
-              <div class="product-grid product-grid-loading" id="zappy-product-grid">
-                
-                  <div class="product-card product-card-skeleton" aria-hidden="true">
-                    <div class="product-card-inner">
-                      <div class="product-card-media"><div class="skeleton-media"></div></div>
-                      <div class="product-card-body">
-                        <div class="skeleton-line skeleton-title"></div>
-                        <div class="skeleton-line"></div>
-                        <div class="skeleton-line skeleton-short"></div>
-                      </div>
-                    </div>
-                  </div>
-                
-                  <div class="product-card product-card-skeleton" aria-hidden="true">
-                    <div class="product-card-inner">
-                      <div class="product-card-media"><div class="skeleton-media"></div></div>
-                      <div class="product-card-body">
-                        <div class="skeleton-line skeleton-title"></div>
-                        <div class="skeleton-line"></div>
-                        <div class="skeleton-line skeleton-short"></div>
-                      </div>
-                    </div>
-                  </div>
-                
-                  <div class="product-card product-card-skeleton" aria-hidden="true">
-                    <div class="product-card-inner">
-                      <div class="product-card-media"><div class="skeleton-media"></div></div>
-                      <div class="product-card-body">
-                        <div class="skeleton-line skeleton-title"></div>
-                        <div class="skeleton-line"></div>
-                        <div class="skeleton-line skeleton-short"></div>
-                      </div>
-                    </div>
-                  </div>
-                
-                  <div class="product-card product-card-skeleton" aria-hidden="true">
-                    <div class="product-card-inner">
-                      <div class="product-card-media"><div class="skeleton-media"></div></div>
-                      <div class="product-card-body">
-                        <div class="skeleton-line skeleton-title"></div>
-                        <div class="skeleton-line"></div>
-                        <div class="skeleton-line skeleton-short"></div>
-                      </div>
-                    </div>
-                  </div>
-                
-                  <div class="product-card product-card-skeleton" aria-hidden="true">
-                    <div class="product-card-inner">
-                      <div class="product-card-media"><div class="skeleton-media"></div></div>
-                      <div class="product-card-body">
-                        <div class="skeleton-line skeleton-title"></div>
-                        <div class="skeleton-line"></div>
-                        <div class="skeleton-line skeleton-short"></div>
-                      </div>
-                    </div>
-                  </div>
-                
-                  <div class="product-card product-card-skeleton" aria-hidden="true">
-                    <div class="product-card-inner">
-                      <div class="product-card-media"><div class="skeleton-media"></div></div>
-                      <div class="product-card-body">
-                        <div class="skeleton-line skeleton-title"></div>
-                        <div class="skeleton-line"></div>
-                        <div class="skeleton-line skeleton-short"></div>
-                      </div>
-                    </div>
-                  </div>
-                
-                  <div class="product-card product-card-skeleton" aria-hidden="true">
-                    <div class="product-card-inner">
-                      <div class="product-card-media"><div class="skeleton-media"></div></div>
-                      <div class="product-card-body">
-                        <div class="skeleton-line skeleton-title"></div>
-                        <div class="skeleton-line"></div>
-                        <div class="skeleton-line skeleton-short"></div>
-                      </div>
-                    </div>
-                  </div>
-                
-                  <div class="product-card product-card-skeleton" aria-hidden="true">
-                    <div class="product-card-inner">
-                      <div class="product-card-media"><div class="skeleton-media"></div></div>
-                      <div class="product-card-body">
-                        <div class="skeleton-line skeleton-title"></div>
-                        <div class="skeleton-line"></div>
-                        <div class="skeleton-line skeleton-short"></div>
-                      </div>
-                    </div>
-                  </div>
-                
-                  <div class="product-card product-card-skeleton" aria-hidden="true">
-                    <div class="product-card-inner">
-                      <div class="product-card-media"><div class="skeleton-media"></div></div>
-                      <div class="product-card-body">
-                        <div class="skeleton-line skeleton-title"></div>
-                        <div class="skeleton-line"></div>
-                        <div class="skeleton-line skeleton-short"></div>
-                      </div>
-                    </div>
-                  </div>
-                
-                  <div class="product-card product-card-skeleton" aria-hidden="true">
-                    <div class="product-card-inner">
-                      <div class="product-card-media"><div class="skeleton-media"></div></div>
-                      <div class="product-card-body">
-                        <div class="skeleton-line skeleton-title"></div>
-                        <div class="skeleton-line"></div>
-                        <div class="skeleton-line skeleton-short"></div>
-                      </div>
-                    </div>
-                  </div>
-                
-                  <div class="product-card product-card-skeleton" aria-hidden="true">
-                    <div class="product-card-inner">
-                      <div class="product-card-media"><div class="skeleton-media"></div></div>
-                      <div class="product-card-body">
-                        <div class="skeleton-line skeleton-title"></div>
-                        <div class="skeleton-line"></div>
-                        <div class="skeleton-line skeleton-short"></div>
-                      </div>
-                    </div>
-                  </div>
-                
-                  <div class="product-card product-card-skeleton" aria-hidden="true">
-                    <div class="product-card-inner">
-                      <div class="product-card-media"><div class="skeleton-media"></div></div>
-                      <div class="product-card-body">
-                        <div class="skeleton-line skeleton-title"></div>
-                        <div class="skeleton-line"></div>
-                        <div class="skeleton-line skeleton-short"></div>
-                      </div>
-                    </div>
-                  </div>
-                
-                <span class="sr-only loading-products">טוען מוצרים...</span>
-              </div>
+              <div class="product-grid product-grid-loading" id="zappy-product-grid"><div class="loading-products"></div></div>
             </div>
           </div>
         </section>
