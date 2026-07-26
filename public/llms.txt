@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://ftf-for-the-fans-652a58af.zappy5.app
+https://example.com
 חנות חולצות כדורגל ישראל המובילה לאוהדים אמיתיים. גלה את הקולקציה היוקרתית שלנו של חולצות קבוצות כדורגל אירופאיות, עשויות באיכות על. הצטרף למועדון האלופים עכשיו!
 
 ### איכות
-https://ftf-for-the-fans-652a58af.zappy5.app/quality
+https://example.com/quality
 ב-FTF, כל חולצה היא יצירת מופת. אנו מתחייבים לחולצות כדורגל מקוריות לקנייה ברמת גימור עילית, מבדים נושמים ועד הדפסים עמידים. חווה את ההבדל שבאיכות אמיתית.
 
 ### תרבות
-https://ftf-for-the-fans-652a58af.zappy5.app/culture
+https://example.com/culture
 צלול עמוק לתוך תרבות הכדורגל העולמית. ממכירת חולצות כדורגל ועד סיפורי היציעים, אנחנו חוגגים את התשוקה שמאחורי חולצות קבוצות כדורגל אירופאיות. היה חלק מהמורשת.
 
 ### שאלות נפוצות
-https://ftf-for-the-fans-652a58af.zappy5.app/faq
+https://example.com/faq
 יש לך שאלות על חולצות כדורגל מקוריות לקנייה? מעמוד השאלות הנפוצות שלנו תקבל מענה מיידי על משלוחים, מידות, ואימות מקוריות. קנה בביטחון מלא עוד היום.
 
 ### צור קשר
-https://ftf-for-the-fans-652a58af.zappy5.app/contact
+https://example.com/contact
 צריך עזרה בבחירת חולצות קבוצות כדורגל אירופאיות? צוות המומחים שלנו בחנות חולצות כדורגל ישראל זמין לכל שאלה. צור קשר עכשיו ותן לנו להלביש את התשוקה שלך.
 
 ### Products
-https://ftf-for-the-fans-652a58af.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - FTF [for the fans]
 
 ### Cart
-https://ftf-for-the-fans-652a58af.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://ftf-for-the-fans-652a58af.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://ftf-for-the-fans-652a58af.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://ftf-for-the-fans-652a58af.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://ftf-for-the-fans-652a58af.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://ftf-for-the-fans-652a58af.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - FTF [for the fans]
 
 ### Category
-https://ftf-for-the-fans-652a58af.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - FTF [for the fans]
 
 ### תודה רבה | FTF [for the fans]
-https://ftf-for-the-fans-652a58af.zappy5.app/thank-you
+https://example.com/thank-you
 תודה רבה על פנייתך. ההודעה התקבלה בהצלחה ונציג מטעמנו יחזור אליך בהקדם. FTF - מכירת חולצות כדורגל.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://ftf-for-the-fans-652a58af.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://ftf-for-the-fans-652a58af.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://ftf-for-the-fans-652a58af.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -101,8 +101,8 @@ E-commerce / Sports Apparel
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://ftf-for-the-fans-652a58af.zappy5.app/sitemap.xml
-- Robots: https://ftf-for-the-fans-652a58af.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://ftf-for-the-fans-652a58af.zappy5.app/llms-full.txt
-- Products (JSON): https://ftf-for-the-fans-652a58af.zappy5.app/products.json
-- Products (Google Merchant RSS): https://ftf-for-the-fans-652a58af.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml

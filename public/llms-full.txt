@@ -2,13 +2,13 @@
 
 A premium online store specializing in high-end football jerseys. The brand positions itself at the top tier of the market, emphasizing quality, authenticity, and a passion for football culture. The store aims to deliver an elite shopping experience for serious football fans and collectors.
 
-Source: https://ftf-for-the-fans-652a58af.zappy5.app
+Source: https://example.com
 
 ---
 
 ## קנה חולצות כדורגל מקוריות לאלופים — FTF [for the fans]
 
-URL: https://ftf-for-the-fans-652a58af.zappy5.app
+URL: https://example.com
 Description: חנות חולצות כדורגל ישראל המובילה לאוהדים אמיתיים. גלה את הקולקציה היוקרתית שלנו של חולצות קבוצות כדורגל אירופאיות, עשויות באיכות על. הצטרף למועדון האלופים עכשיו!
 
 קנה חולצות כדורגל מקוריות לאלופים — FTF [for the fans]
@@ -479,7 +479,7 @@ Description: חנות חולצות כדורגל ישראל המובילה לאו
 
 ## איכות חולצות כדורגל שלא מתפשרת על המקור — FTF [for the fans]
 
-URL: https://ftf-for-the-fans-652a58af.zappy5.app/quality
+URL: https://example.com/quality
 Description: ב-FTF, כל חולצה היא יצירת מופת. אנו מתחייבים לחולצות כדורגל מקוריות לקנייה ברמת גימור עילית, מבדים נושמים ועד הדפסים עמידים. חווה את ההבדל שבאיכות אמיתית.
 
 איכות חולצות כדורגל שלא מתפשרת על המקור — FTF [for the fans]
@@ -887,7 +887,7 @@ Description: ב-FTF, כל חולצה היא יצירת מופת. אנו מתחי
 
 ## תרבות הכדורגל חיה ובועטת אצלנו — FTF [for the fans]
 
-URL: https://ftf-for-the-fans-652a58af.zappy5.app/culture
+URL: https://example.com/culture
 Description: צלול עמוק לתוך תרבות הכדורגל העולמית. ממכירת חולצות כדורגל ועד סיפורי היציעים, אנחנו חוגגים את התשוקה שמאחורי חולצות קבוצות כדורגל אירופאיות. היה חלק מהמורשת.
 
 תרבות הכדורגל חיה ובועטת אצלנו — FTF [for the fans]
@@ -1278,7 +1278,7 @@ FTF
 
 ## כל התשובות על חולצות כדורגל מקוריות — FTF [for the fans]
 
-URL: https://ftf-for-the-fans-652a58af.zappy5.app/faq
+URL: https://example.com/faq
 Description: יש לך שאלות על חולצות כדורגל מקוריות לקנייה? מעמוד השאלות הנפוצות שלנו תקבל מענה מיידי על משלוחים, מידות, ואימות מקוריות. קנה בביטחון מלא עוד היום.
 
 כל התשובות על חולצות כדורגל מקוריות — FTF [for the fans]
@@ -1615,7 +1615,7 @@ Description: יש לך שאלות על חולצות כדורגל מקוריות 
 
 ## דבר עם מומחי חולצות הכדורגל שלנו — FTF [for the fans]
 
-URL: https://ftf-for-the-fans-652a58af.zappy5.app/contact
+URL: https://example.com/contact
 Description: צריך עזרה בבחירת חולצות קבוצות כדורגל אירופאיות? צוות המומחים שלנו בחנות חולצות כדורגל ישראל זמין לכל שאלה. צור קשר עכשיו ותן לנו להלביש את התשוקה שלך.
 
 דבר עם מומחי חולצות הכדורגל שלנו — FTF [for the fans]
@@ -1993,7 +1993,7 @@ FTF נולד מתוך אהבה עמוקה לתרבות הכדורגל. אנחנ�
 
 ## מוצרים
 
-URL: https://ftf-for-the-fans-652a58af.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - FTF [for the fans]
 
 מוצרים - FTF [for the fans]
@@ -2402,7 +2402,7 @@ Description: המוצרים שלנו - FTF [for the fans]
 
 ## עגלת קניות
 
-URL: https://ftf-for-the-fans-652a58af.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - FTF [for the fans]
@@ -2653,7 +2653,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://ftf-for-the-fans-652a58af.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - FTF [for the fans]
@@ -3090,7 +3090,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://ftf-for-the-fans-652a58af.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - FTF [for the fans]
@@ -3348,7 +3348,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://ftf-for-the-fans-652a58af.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - FTF [for the fans]
@@ -3761,7 +3761,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://ftf-for-the-fans-652a58af.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - FTF [for the fans]
@@ -4036,7 +4036,7 @@ Description: תודה על ההזמנה
 
 ## מדיניות החזרות
 
-URL: https://ftf-for-the-fans-652a58af.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - FTF [for the fans]
@@ -4340,7 +4340,7 @@ FTF [for the fans] מחויבת לשביעות רצון לקוחותיה. מדי
 
 ## פרטי המוצר
 
-URL: https://ftf-for-the-fans-652a58af.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - FTF [for the fans]
 
 פרטי המוצר - FTF [for the fans]
@@ -4593,7 +4593,7 @@ Description: פרטי המוצר - FTF [for the fans]
 
 ## מוצרים
 
-URL: https://ftf-for-the-fans-652a58af.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - FTF [for the fans]
 
 מוצרים - FTF [for the fans]
@@ -4870,7 +4870,7 @@ Description: מוצרים - FTF [for the fans]
 
 ## מדיניות פרטיות
 
-URL: https://ftf-for-the-fans-652a58af.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -5150,7 +5150,7 @@ FTF [for the fans] ("החברה", "אנו", "שלנו") מחויבת להגן ע
 
 ## הצהרת נגישות
 
-URL: https://ftf-for-the-fans-652a58af.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -5439,7 +5439,7 @@ FTF [for the fans] מחויבת להנגיש את השירותים לכלל הצ
 
 ## תנאי שימוש
 
-URL: https://ftf-for-the-fans-652a58af.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -5747,7 +5747,7 @@ FTF [for the fans] מספקת E-commerce / Sports Apparel דרך האתר. הש�
 
 ## תודה רבה | FTF [for the fans]
 
-URL: https://ftf-for-the-fans-652a58af.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: תודה רבה על פנייתך. ההודעה התקבלה בהצלחה ונציג מטעמנו יחזור אליך בהקדם. FTF - מכירת חולצות כדורגל.
 
 תודה רבה | FTF [for the fans]
