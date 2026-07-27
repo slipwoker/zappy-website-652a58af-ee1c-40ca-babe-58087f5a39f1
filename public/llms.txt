@@ -80,13 +80,82 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 1**
+**Total active products: 11**
 
-### חולצת חוץ ריאל מדריד 2026/27 (Copy)
-https://example.com/product/chvltst-chvts-ryal-mdryd-202627-copy-hn1hoo
+### חולצה ברצלונה קוביות 2026/27
+https://example.com/product/chvltsh-brtslvnh-kvbyvt-202627-wxkw2l
 - Price: 49.90 ILS (sale, was 89.90 ILS)
 - Availability: In stock
-- Category: LALIGA
+- Category: ברצלונה
+- Image: https://example.com/assets/product-ai-fit-1785142790975-3a16uk.webp
+
+### חולצה ברצלונה 2026/27
+https://example.com/product/chvltsh-brtslvnh-202627-13rj68
+- Price: 49.90 ILS (sale, was 89.90 ILS)
+- Availability: In stock
+- Category: ברצלונה
+- Image: https://example.com/assets/product-ai-fit-1785142593921-j9n4al.webp
+
+### חולצה ברצלונה 2026/27
+https://example.com/product/chvltsh-brtslvnh-202627-r82ahq
+- Price: 49.90 ILS (sale, was 89.90 ILS)
+- Availability: In stock
+- Category: ברצלונה
+- Image: https://example.com/assets/product-ai-fit-1785142451893-mgemct.webp
+
+### חולצת בית ריאל מדריד 2026/27
+https://example.com/product/chvltst-byt-ryal-mdryd-202627-enl3o2
+- Price: 49.90 ILS (sale, was 89.90 ILS)
+- Availability: In stock
+- Category: ריאל מדריד
+- Image: https://example.com/assets/product-ai-fit-1785142014984-nil3rz.webp
+
+### חולצת ריאל מדריד ורודה 2026/27
+https://example.com/product/chvltst-ryal-mdryd-vrvdh-202627-2l9hdr
+- Price: 49.90 ILS (sale, was 89.90 ILS)
+- Availability: In stock
+- Category: ריאל מדריד
+- Image: https://example.com/assets/product-ai-fit-1785141769204-tqxjox.webp
+
+### חולצה ירוקה ריאל מדריד ולואי ויטון 2026/27
+https://example.com/product/chvltsh-yrvkh-ryal-mdryd-vlvay-vytvn-202627-iyupz1
+- Price: 49.90 ILS (sale, was 89.90 ILS)
+- Availability: In stock
+- Category: ריאל מדריד
+- Image: https://example.com/assets/product-ai-fit-1785141566096-ids3cs.webp
+
+### חולצה שחורה ריאל מדריד ולואי ויטון 2026/27
+https://example.com/product/chvltsh-shchvrh-ryal-mdryd-vlvay-vytvn-202627-xc654a
+- Price: 49.90 ILS (sale, was 89.90 ILS)
+- Availability: In stock
+- Category: ריאל מדריד
+- Image: https://example.com/assets/product-ai-fit-1785141222030-bfkgkf.webp
+
+### חולצה ורודה ריאל מדריד ולואי ויטון 2026/27
+https://example.com/product/chvltsh-vrvdh-ryal-mdryd-vlvay-vytvn-202627-baegd8
+- Price: 49.90 ILS (sale, was 89.90 ILS)
+- Availability: In stock
+- Category: ריאל מדריד
+- Image: https://example.com/assets/product-ai-fit-1785107033760-bhi14v.webp
+
+### חולצה לבנה ריאל מדריד ולואי ויטון  2026/27
+https://example.com/product/chvltsh-lbnh-ryal-mdryd-vlvay-vytvn-202627-2x4x8m
+- Price: 49.90 ILS (sale, was 89.90 ILS)
+- Availability: In stock
+- Category: ריאל מדריד
+- Image: https://example.com/assets/product-ai-fit-1785141414061-llrg4g.webp
+
+### חולצת בית אתלטיקו מדריד 
+https://example.com/product/chvltst-byt-atltykv-mdryd-n1ac6o
+- Price: 49.90 ILS (sale, was 89.90 ILS)
+- Availability: In stock
+- Image: https://example.com/assets/product-ai-fit-1785106339312-q60z3g.webp
+
+### חולצת חוץ ריאל מדריד 2026/27 (Copy)
+https://example.com/product/chvltst-chvts-ryal-mdryd-202627-copy-yga0lk
+- Price: 49.90 ILS (sale, was 89.90 ILS)
+- Availability: In stock
+- Category: ריאל מדריד
 - Image: https://example.com/assets/product-ai-fit-1785103775727-5ngzx.webp
 
 ---

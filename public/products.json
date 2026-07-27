@@ -1,13 +1,261 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-26T22:27:21.361Z",
+  "generated_at": "2026-07-27T13:39:35.365Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 1,
+  "count": 11,
   "products": [
     {
+      "id": "48c0b8f3-3f01-46e0-a1ba-eb76944d8de7",
+      "slug": "chvltsh-brtslvnh-kvbyvt-202627-wxkw2l",
+      "name": "חולצה ברצלונה קוביות 2026/27",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 49.9,
+      "base_price": 89.9,
+      "sale_price": 49.9,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1785142790975-3a16uk.webp",
+        "https://example.com/assets/product-ai-fit-1785142835393-a6x5p.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chvltsh-brtslvnh-kvbyvt-202627-wxkw2l",
+      "categories": [
+        "ברצלונה"
+      ],
+      "updated_at": "2026-07-27T09:00:43.366Z"
+    },
+    {
+      "id": "75d692bd-50b8-443e-9b4a-b26ab919ec25",
+      "slug": "chvltsh-brtslvnh-202627-13rj68",
+      "name": "חולצה ברצלונה 2026/27",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 49.9,
+      "base_price": 89.9,
+      "sale_price": 49.9,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1785142593921-j9n4al.webp",
+        "https://example.com/assets/product-ai-fit-1785142620530-lqftzo.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chvltsh-brtslvnh-202627-13rj68",
+      "categories": [
+        "ברצלונה"
+      ],
+      "updated_at": "2026-07-27T08:57:17.140Z"
+    },
+    {
+      "id": "2db8d9c9-333a-464e-a5d9-765507a6ce29",
+      "slug": "chvltsh-brtslvnh-202627-r82ahq",
+      "name": "חולצה ברצלונה 2026/27",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 49.9,
+      "base_price": 89.9,
+      "sale_price": 49.9,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1785142451893-mgemct.webp",
+        "https://example.com/assets/product-ai-fit-1785142476819-9szkph.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chvltsh-brtslvnh-202627-r82ahq",
+      "categories": [
+        "ברצלונה"
+      ],
+      "updated_at": "2026-07-27T08:54:45.296Z"
+    },
+    {
+      "id": "9ea3032b-a1c5-4815-a19c-f3e823e92efa",
+      "slug": "chvltst-byt-ryal-mdryd-202627-enl3o2",
+      "name": "חולצת בית ריאל מדריד 2026/27",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 49.9,
+      "base_price": 89.9,
+      "sale_price": 49.9,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1785142014984-nil3rz.webp",
+        "https://example.com/assets/product-ai-fit-1785142040948-480ili.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chvltst-byt-ryal-mdryd-202627-enl3o2",
+      "categories": [
+        "ריאל מדריד"
+      ],
+      "updated_at": "2026-07-27T08:47:28.733Z"
+    },
+    {
+      "id": "305f7311-b563-476c-a4b2-0ad053b02e29",
+      "slug": "chvltst-ryal-mdryd-vrvdh-202627-2l9hdr",
+      "name": "חולצת ריאל מדריד ורודה 2026/27",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 49.9,
+      "base_price": 89.9,
+      "sale_price": 49.9,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1785141769204-tqxjox.webp",
+        "https://example.com/assets/product-ai-fit-1785141799321-cnwowc.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chvltst-ryal-mdryd-vrvdh-202627-2l9hdr",
+      "categories": [
+        "ריאל מדריד"
+      ],
+      "updated_at": "2026-07-27T08:43:32.903Z"
+    },
+    {
+      "id": "53d449b0-8ed8-453e-a2a1-91c365e5efae",
+      "slug": "chvltsh-yrvkh-ryal-mdryd-vlvay-vytvn-202627-iyupz1",
+      "name": "חולצה ירוקה ריאל מדריד ולואי ויטון 2026/27",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 49.9,
+      "base_price": 89.9,
+      "sale_price": 49.9,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1785141566096-ids3cs.webp",
+        "https://example.com/assets/product-ai-fit-1785141593213-r1ux6.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chvltsh-yrvkh-ryal-mdryd-vlvay-vytvn-202627-iyupz1",
+      "categories": [
+        "ריאל מדריד"
+      ],
+      "updated_at": "2026-07-27T08:43:59.095Z"
+    },
+    {
+      "id": "66d2b76a-b211-4b93-91f1-89b36cbb5dc9",
+      "slug": "chvltsh-shchvrh-ryal-mdryd-vlvay-vytvn-202627-xc654a",
+      "name": "חולצה שחורה ריאל מדריד ולואי ויטון 2026/27",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 49.9,
+      "base_price": 89.9,
+      "sale_price": 49.9,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1785141222030-bfkgkf.webp",
+        "https://example.com/assets/product-ai-fit-1785141278394-cysvz4.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chvltsh-shchvrh-ryal-mdryd-vlvay-vytvn-202627-xc654a",
+      "categories": [
+        "ריאל מדריד"
+      ],
+      "updated_at": "2026-07-27T08:34:52.246Z"
+    },
+    {
+      "id": "d9342d65-8bd8-416d-88f8-8d47f03bf9e9",
+      "slug": "chvltsh-vrvdh-ryal-mdryd-vlvay-vytvn-202627-baegd8",
+      "name": "חולצה ורודה ריאל מדריד ולואי ויטון 2026/27",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 49.9,
+      "base_price": 89.9,
+      "sale_price": 49.9,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1785107033760-bhi14v.webp",
+        "https://example.com/assets/product-ai-fit-1785107063920-oqa8l.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chvltsh-vrvdh-ryal-mdryd-vlvay-vytvn-202627-baegd8",
+      "categories": [
+        "ריאל מדריד"
+      ],
+      "updated_at": "2026-07-27T08:38:09.171Z"
+    },
+    {
+      "id": "6d4c44d9-f5aa-474a-8011-aeb0cbdfe1ec",
+      "slug": "chvltsh-lbnh-ryal-mdryd-vlvay-vytvn-202627-2x4x8m",
+      "name": "חולצה לבנה ריאל מדריד ולואי ויטון  2026/27",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 49.9,
+      "base_price": 89.9,
+      "sale_price": 49.9,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1785141414061-llrg4g.webp",
+        "https://example.com/assets/product-ai-fit-1785141451939-3447te.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chvltsh-lbnh-ryal-mdryd-vlvay-vytvn-202627-2x4x8m",
+      "categories": [
+        "ריאל מדריד"
+      ],
+      "updated_at": "2026-07-27T08:37:42.378Z"
+    },
+    {
+      "id": "a7d84e4a-5899-4347-b31e-f8396a98fcf4",
+      "slug": "chvltst-byt-atltykv-mdryd-n1ac6o",
+      "name": "חולצת בית אתלטיקו מדריד ",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 49.9,
+      "base_price": 89.9,
+      "sale_price": 49.9,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1785106339312-q60z3g.webp",
+        "https://example.com/assets/product-ai-fit-1785106405153-uuccyn.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chvltst-byt-atltykv-mdryd-n1ac6o",
+      "categories": [],
+      "updated_at": "2026-07-26T22:53:35.476Z"
+    },
+    {
       "id": "a6b968e4-e095-4ddc-8e34-807fbd88fb9d",
-      "slug": "chvltst-chvts-ryal-mdryd-202627-copy-hn1hoo",
+      "slug": "chvltst-chvts-ryal-mdryd-202627-copy-yga0lk",
       "name": "חולצת חוץ ריאל מדריד 2026/27 (Copy)",
       "name_translations": {},
       "description": "",
@@ -19,15 +267,16 @@
       "sale_price": 49.9,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1785103775727-5ngzx.webp"
+        "https://example.com/assets/product-ai-fit-1785103775727-5ngzx.webp",
+        "https://example.com/assets/product-ai-fit-1785106258830-fdl128.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/chvltst-chvts-ryal-mdryd-202627-copy-hn1hoo",
+      "url": "https://example.com/product/chvltst-chvts-ryal-mdryd-202627-copy-yga0lk",
       "categories": [
-        "LALIGA"
+        "ריאל מדריד"
       ],
-      "updated_at": "2026-07-26T22:16:12.061Z"
+      "updated_at": "2026-07-26T22:51:07.336Z"
     }
   ]
 }

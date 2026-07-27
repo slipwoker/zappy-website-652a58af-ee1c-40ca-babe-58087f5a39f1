@@ -125,9 +125,73 @@ Description: חנות חולצות כדורגל ישראל המובילה לאו
 
 
 
+##
+
+###
+
 ## מוצרים מומלצים
 
-עוד לא נבחרו מוצרים מומלצים. צפו בכל המוצרים שלנו!
+
+
+
+### חולצה ברצלונה קוביות 2026/27
+
+
+₪89.90 ">₪49.90  ₪89.90
+
+
+### חולצה ברצלונה 2026/27
+
+
+₪89.90 ">₪49.90  ₪89.90
+
+
+### חולצה ברצלונה 2026/27
+
+
+₪89.90 ">₪49.90  ₪89.90
+
+
+### חולצת בית ריאל מדריד 2026/27
+
+
+₪89.90 ">₪49.90  ₪89.90
+
+
+### חולצת ריאל מדריד ורודה 2026/27
+
+
+₪89.90 ">₪49.90  ₪89.90
+
+
+### חולצה ירוקה ריאל מדריד ולואי ויטון 2026/27
+
+
+₪89.90 ">₪49.90  ₪89.90
+
+
+### חולצה שחורה ריאל מדריד ולואי ויטון 2026/27
+
+
+₪89.90 ">₪49.90  ₪89.90                new  sale
+
+
+### חולצה ורודה ריאל מדריד ולואי ויטון 2026/27
+
+
+₪89.90 ">₪49.90  ₪89.90                new  sale
+
+
+### חולצה לבנה ריאל מדריד ולואי ויטון 2026/27
+
+
+₪89.90 ">₪49.90  ₪89.90                new  sale
+
+
+### חולצת בית אתלטיקו מדריד
+
+
+₪89.90 ">₪49.90  ₪89.90
 
 צפה בכל המוצרים →
 
@@ -5852,8 +5916,78 @@ Description: תודה רבה על פנייתך. ההודעה התקבלה בהצ
 
 ## Product Catalog
 
+### חולצה ברצלונה קוביות 2026/27
+URL: https://example.com/product/chvltsh-brtslvnh-kvbyvt-202627-wxkw2l
+Price: 49.90 ILS (sale, was 89.90 ILS)
+Availability: In stock
+
+---
+
+### חולצה ברצלונה 2026/27
+URL: https://example.com/product/chvltsh-brtslvnh-202627-13rj68
+Price: 49.90 ILS (sale, was 89.90 ILS)
+Availability: In stock
+
+---
+
+### חולצה ברצלונה 2026/27
+URL: https://example.com/product/chvltsh-brtslvnh-202627-r82ahq
+Price: 49.90 ILS (sale, was 89.90 ILS)
+Availability: In stock
+
+---
+
+### חולצת בית ריאל מדריד 2026/27
+URL: https://example.com/product/chvltst-byt-ryal-mdryd-202627-enl3o2
+Price: 49.90 ILS (sale, was 89.90 ILS)
+Availability: In stock
+
+---
+
+### חולצת ריאל מדריד ורודה 2026/27
+URL: https://example.com/product/chvltst-ryal-mdryd-vrvdh-202627-2l9hdr
+Price: 49.90 ILS (sale, was 89.90 ILS)
+Availability: In stock
+
+---
+
+### חולצה ירוקה ריאל מדריד ולואי ויטון 2026/27
+URL: https://example.com/product/chvltsh-yrvkh-ryal-mdryd-vlvay-vytvn-202627-iyupz1
+Price: 49.90 ILS (sale, was 89.90 ILS)
+Availability: In stock
+
+---
+
+### חולצה שחורה ריאל מדריד ולואי ויטון 2026/27
+URL: https://example.com/product/chvltsh-shchvrh-ryal-mdryd-vlvay-vytvn-202627-xc654a
+Price: 49.90 ILS (sale, was 89.90 ILS)
+Availability: In stock
+
+---
+
+### חולצה ורודה ריאל מדריד ולואי ויטון 2026/27
+URL: https://example.com/product/chvltsh-vrvdh-ryal-mdryd-vlvay-vytvn-202627-baegd8
+Price: 49.90 ILS (sale, was 89.90 ILS)
+Availability: In stock
+
+---
+
+### חולצה לבנה ריאל מדריד ולואי ויטון  2026/27
+URL: https://example.com/product/chvltsh-lbnh-ryal-mdryd-vlvay-vytvn-202627-2x4x8m
+Price: 49.90 ILS (sale, was 89.90 ILS)
+Availability: In stock
+
+---
+
+### חולצת בית אתלטיקו מדריד 
+URL: https://example.com/product/chvltst-byt-atltykv-mdryd-n1ac6o
+Price: 49.90 ILS (sale, was 89.90 ILS)
+Availability: In stock
+
+---
+
 ### חולצת חוץ ריאל מדריד 2026/27 (Copy)
-URL: https://example.com/product/chvltst-chvts-ryal-mdryd-202627-copy-hn1hoo
+URL: https://example.com/product/chvltst-chvts-ryal-mdryd-202627-copy-yga0lk
 Price: 49.90 ILS (sale, was 89.90 ILS)
 Availability: In stock
 

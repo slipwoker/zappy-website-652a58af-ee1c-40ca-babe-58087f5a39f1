@@ -4,20 +4,170 @@
     <title>FTF [for the fans]</title>
     <link>https://example.com</link>
     <description>Product feed for FTF [for the fans]</description>
-    <lastBuildDate>Sun, 26 Jul 2026 22:27:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 13:39:35 GMT</lastBuildDate>
     <item>
-      <g:id>a6b968e4-e095-4ddc-8e34-807fbd88fb9d</g:id>
-      <g:title>חולצת חוץ ריאל מדריד 2026/27 (Copy)</g:title>
-      <g:description>חולצת חוץ ריאל מדריד 2026/27 (Copy)</g:description>
-      <g:link>https://example.com/product/chvltst-chvts-ryal-mdryd-202627-copy-hn1hoo</g:link>
-      <g:image_link>https://example.com/assets/product-ai-fit-1785103775727-5ngzx.webp</g:image_link>
+      <g:id>48c0b8f3-3f01-46e0-a1ba-eb76944d8de7</g:id>
+      <g:title>חולצה ברצלונה קוביות 2026/27</g:title>
+      <g:description>חולצה ברצלונה קוביות 2026/27</g:description>
+      <g:link>https://example.com/product/chvltsh-brtslvnh-kvbyvt-202627-wxkw2l</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1785142790975-3a16uk.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1785142835393-a6x5p.webp</g:additional_image_link>
       <g:availability>in_stock</g:availability>
       <g:price>89.90 ILS</g:price>
       <g:sale_price>49.90 ILS</g:sale_price>
       <g:condition>new</g:condition>
       <g:brand>FTF [for the fans]</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:product_type>LALIGA</g:product_type>
+      <g:product_type>ברצלונה</g:product_type>
+    </item>
+    <item>
+      <g:id>75d692bd-50b8-443e-9b4a-b26ab919ec25</g:id>
+      <g:title>חולצה ברצלונה 2026/27</g:title>
+      <g:description>חולצה ברצלונה 2026/27</g:description>
+      <g:link>https://example.com/product/chvltsh-brtslvnh-202627-13rj68</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1785142593921-j9n4al.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1785142620530-lqftzo.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>89.90 ILS</g:price>
+      <g:sale_price>49.90 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>FTF [for the fans]</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>ברצלונה</g:product_type>
+    </item>
+    <item>
+      <g:id>2db8d9c9-333a-464e-a5d9-765507a6ce29</g:id>
+      <g:title>חולצה ברצלונה 2026/27</g:title>
+      <g:description>חולצה ברצלונה 2026/27</g:description>
+      <g:link>https://example.com/product/chvltsh-brtslvnh-202627-r82ahq</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1785142451893-mgemct.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1785142476819-9szkph.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>89.90 ILS</g:price>
+      <g:sale_price>49.90 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>FTF [for the fans]</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>ברצלונה</g:product_type>
+    </item>
+    <item>
+      <g:id>9ea3032b-a1c5-4815-a19c-f3e823e92efa</g:id>
+      <g:title>חולצת בית ריאל מדריד 2026/27</g:title>
+      <g:description>חולצת בית ריאל מדריד 2026/27</g:description>
+      <g:link>https://example.com/product/chvltst-byt-ryal-mdryd-202627-enl3o2</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1785142014984-nil3rz.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1785142040948-480ili.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>89.90 ILS</g:price>
+      <g:sale_price>49.90 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>FTF [for the fans]</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>ריאל מדריד</g:product_type>
+    </item>
+    <item>
+      <g:id>305f7311-b563-476c-a4b2-0ad053b02e29</g:id>
+      <g:title>חולצת ריאל מדריד ורודה 2026/27</g:title>
+      <g:description>חולצת ריאל מדריד ורודה 2026/27</g:description>
+      <g:link>https://example.com/product/chvltst-ryal-mdryd-vrvdh-202627-2l9hdr</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1785141769204-tqxjox.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1785141799321-cnwowc.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>89.90 ILS</g:price>
+      <g:sale_price>49.90 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>FTF [for the fans]</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>ריאל מדריד</g:product_type>
+    </item>
+    <item>
+      <g:id>53d449b0-8ed8-453e-a2a1-91c365e5efae</g:id>
+      <g:title>חולצה ירוקה ריאל מדריד ולואי ויטון 2026/27</g:title>
+      <g:description>חולצה ירוקה ריאל מדריד ולואי ויטון 2026/27</g:description>
+      <g:link>https://example.com/product/chvltsh-yrvkh-ryal-mdryd-vlvay-vytvn-202627-iyupz1</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1785141566096-ids3cs.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1785141593213-r1ux6.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>89.90 ILS</g:price>
+      <g:sale_price>49.90 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>FTF [for the fans]</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>ריאל מדריד</g:product_type>
+    </item>
+    <item>
+      <g:id>66d2b76a-b211-4b93-91f1-89b36cbb5dc9</g:id>
+      <g:title>חולצה שחורה ריאל מדריד ולואי ויטון 2026/27</g:title>
+      <g:description>חולצה שחורה ריאל מדריד ולואי ויטון 2026/27</g:description>
+      <g:link>https://example.com/product/chvltsh-shchvrh-ryal-mdryd-vlvay-vytvn-202627-xc654a</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1785141222030-bfkgkf.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1785141278394-cysvz4.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>89.90 ILS</g:price>
+      <g:sale_price>49.90 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>FTF [for the fans]</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>ריאל מדריד</g:product_type>
+    </item>
+    <item>
+      <g:id>d9342d65-8bd8-416d-88f8-8d47f03bf9e9</g:id>
+      <g:title>חולצה ורודה ריאל מדריד ולואי ויטון 2026/27</g:title>
+      <g:description>חולצה ורודה ריאל מדריד ולואי ויטון 2026/27</g:description>
+      <g:link>https://example.com/product/chvltsh-vrvdh-ryal-mdryd-vlvay-vytvn-202627-baegd8</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1785107033760-bhi14v.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1785107063920-oqa8l.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>89.90 ILS</g:price>
+      <g:sale_price>49.90 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>FTF [for the fans]</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>ריאל מדריד</g:product_type>
+    </item>
+    <item>
+      <g:id>6d4c44d9-f5aa-474a-8011-aeb0cbdfe1ec</g:id>
+      <g:title>חולצה לבנה ריאל מדריד ולואי ויטון  2026/27</g:title>
+      <g:description>חולצה לבנה ריאל מדריד ולואי ויטון 2026/27</g:description>
+      <g:link>https://example.com/product/chvltsh-lbnh-ryal-mdryd-vlvay-vytvn-202627-2x4x8m</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1785141414061-llrg4g.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1785141451939-3447te.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>89.90 ILS</g:price>
+      <g:sale_price>49.90 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>FTF [for the fans]</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>ריאל מדריד</g:product_type>
+    </item>
+    <item>
+      <g:id>a7d84e4a-5899-4347-b31e-f8396a98fcf4</g:id>
+      <g:title>חולצת בית אתלטיקו מדריד </g:title>
+      <g:description>חולצת בית אתלטיקו מדריד</g:description>
+      <g:link>https://example.com/product/chvltst-byt-atltykv-mdryd-n1ac6o</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1785106339312-q60z3g.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1785106405153-uuccyn.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>89.90 ILS</g:price>
+      <g:sale_price>49.90 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>FTF [for the fans]</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>a6b968e4-e095-4ddc-8e34-807fbd88fb9d</g:id>
+      <g:title>חולצת חוץ ריאל מדריד 2026/27 (Copy)</g:title>
+      <g:description>חולצת חוץ ריאל מדריד 2026/27 (Copy)</g:description>
+      <g:link>https://example.com/product/chvltst-chvts-ryal-mdryd-202627-copy-yga0lk</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1785103775727-5ngzx.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1785106258830-fdl128.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>89.90 ILS</g:price>
+      <g:sale_price>49.90 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>FTF [for the fans]</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>ריאל מדריד</g:product_type>
     </item>
   </channel>
 </rss>
